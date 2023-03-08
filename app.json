@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
+      "value": "⁣⁣⋆⏤͟͟͞❥͢𐏓➳≛⃝ ⍣⃟🇦𝚊𝚔𝚊𝚗𝚔𝚜𝚑𝚊_𝚁𝚎𝚍𝚍𝚢🌺",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "ANU 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
     "ABUSE": {
@@ -39,12 +39,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@World_Of_Her_Dreams",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@World_Of_Her_Dreams",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -59,22 +59,22 @@
     },
     "ASSISTANT": {
       "description": "Set ON OR OFF",
-      "value": "OFF",
+      "value": "ON",
       "required": true
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
+      "value": "https://te.legra.ph/file/5e53bb9c9816509278cfc.jpg",
       "required": true
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "https://telegra.ph/file/19734dd5f44e1de460a8c.jpg",
+      "value": "https://te.legra.ph/file/5e53bb9c9816509278cfc.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
+      "value": "https://te.legra.ph/file/5e53bb9c9816509278cfc.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -84,7 +84,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/84d39fcb13e617232abb9.jpg",
+      "value": "https://te.legra.ph/file/5e53bb9c9816509278cfc.jpg",
       "required": true
     },
     "PM_MSG": {
@@ -99,16 +99,16 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "-1001897638015",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": ""
+      "value": "28472350"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
+      "value": "5916167735",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -123,27 +123,27 @@
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": ""
+      "value": "53cc464474ab7d3575554e831f2f0104"
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001897638015"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
-      "value": ""
+      "value": "-1001897638015"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
+      "value": "-1001897638015"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
-       "value": ""
+       "value": "-1001897638015"
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
-      "value": ""
+      "value": "1AZWarzQBuyUFP-0SBBr90OrWtfzPHNop67460jyymbrKexX7s0ssI8euJkYXiJ2lw4OcB9Vd_-PzfT0nbyj9BlVhhCDlWlcxp48MQyRYrICZGK-WIWQZQD5T3aCPJwEe1cMRBYqVR3vF9Zbe5pfhL3dPW9_wh7I9O_E3pSwTDOrXhSwMC-wTvCj_g36piVxruzDeZ-t_96lh_qsnumUAIp7SAdVLGE_oM4BhGu-g2Jw_o8FlipIAOtbpYtsLG-9TpuzYt9RSV3JjI6oVk9GdYPzAtpglbbv9QtMOEN6_RcaM9FBR-32YalhqdP9ka4IrRaJJznFJ6mcysHdpqoJYiAZ6XmnOR4M="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
@@ -157,7 +157,7 @@
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "6278589863:AAFbpxLi2LS3ZGLdh0Iw0cUQ05U64BMZL_s"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -171,7 +171,7 @@
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": ""
+      "value": "@PreranaAdithya_Bot"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
